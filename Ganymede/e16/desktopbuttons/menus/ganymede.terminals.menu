@@ -1,5 +1,0 @@
-"Ganymede Terminals"
-"Gnome Terminal" 		TERMINAL exec "gnome-terminal"
-"Xterm" 			TERMINAL exec "xterm"
-"Eterm" 			TERMINAL exec "Eterm -t Ganymede"
-"rxvt"  			TERMINAL exec "rxvt"

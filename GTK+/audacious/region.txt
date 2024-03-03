@@ -1,3 +1,0 @@
-[WindowShade]
-NumPoints=4
-PointList=0,1, 275,1, 275,14  0,14
